@@ -1,0 +1,92 @@
+{
+    "destinations": [
+        {
+            "name": "Moon",
+            "images": {
+                "png": "./asssets/destination/image-moon.png",
+                "webp": "./assets/destination/image-moon.webp"
+            },
+            "description": "See our planet as you've never seen it before.A  perfect relaxing trip away to help regain perspective and come back refreshed.While you're there,take in some history by visiting the Luna 2 and Appollo  11 landing sites.",
+            "distance": "384,400 km",
+            "travel": "3 days"
+        },
+        {
+            "name": "Mars",
+            "images": {
+                "png": "./asssets/destination/image-mars.png",
+                "webp": "./assets/destination/image-mars.webp"
+            },
+            "description": "See our planet as you've never seen it before.A  perfect relaxing trip away to help regain perspective and come back refreshed.While you're there,take in some history by visiting the Luna 2 and Appollo  11 landing sites.",
+            "distance": "225mil. km",
+            "travel": "9 months"
+        },
+        {
+            "name": "Europa",
+            "images": {
+                "png": "./asssets/destination/image-europa.png",
+                "webp": "./assets/destination/image-europa.webp"
+            },
+            "description": "See our planet as you've never seen it before.A  perfect relaxing trip away to help regain perspective and come back refreshed.While you're there,take in some history by visiting the Luna 2 and Appollo  11 landing sites.",
+            "distance": "628 mil. km",
+            "travel": "3 years "
+        },
+        {
+            "name": "Titan",
+            "images": {
+                "png": "./asssets/destination/image-titan.png",
+                "webp": "./assets/destination/image-titan.webp"
+            },
+            "description": "See our planet as you've never seen it before.A  perfect relaxing trip away to help regain perspective and come back refreshed.While you're there,take in some history by visiting the Luna 2 and Appollo  11 landing sites.",
+            "distance": "1.6 bil. km",
+            "travel": "7 years"
+        }
+    ],
+    "crew": [
+        {
+            "name": "Douglas Hurley",
+            "images": {
+                "png": "./asssets/crew/image-douglas-hurley.png",
+                "webp": "./asssets/crew/image-douglas-hurley.webp"
+            },
+            "role": "Commander",
+            "bio": "Douglas Gerald Hurley is an American engineer,former Marine corps pilot and former NASA astronut.He launched into space for the third time as commander of Crew Dragon Deo-2."
+        },
+        {
+            "name": "Mark Shuttleworth",
+            "images": {
+                "png": "./asssets/crew/image-mark-shuttleworth.png",
+                "webp": "./asssets/crew/image-mark-shuttleworth.webp"
+            },
+            "role": "Mission Specialist",
+            "bio": "Douglas Gerald Hurley is an American engineer,former Marine corps pilot and former NASA astronut.He launched into space for the third time as commander of Crew Dragon Deo-2."
+        },
+        {
+            "name": "Victor Glover",
+            "images": {
+                "png": "./asssets/crew/image-victor-glover.png",
+                "webp": "./asssets/crew/image-victor-glover.webp"
+            },
+            "role": "Pilot",
+            "bio": "Douglas Gerald Hurley is an American engineer,former Marine corps pilot and former NASA astronut.He launched into space for the third time as commander of Crew Dragon Deo-2."
+        },
+        {
+            "name": "Anousheh Ansari",
+            "images": {
+                "png": "./asssets/crew/image-anousheh-ansari.png",
+                "webp": "./asssets/crew/image-anousheh-ansari.webp"
+            },
+            "role": "Flight Engineer",
+            "bio": "Douglas Gerald Hurley is an American engineer,former Marine corps pilot and former NASA astronut.He launched into space for the third time as commander of Crew Dragon Deo-2."
+        }
+    ],
+    "technology":[
+        {
+            "name":"Launch Vehicle",
+            "images":{
+                "portrait":"./asssets/technology/image-launch-vehicle-portrait.jpg",
+                "landscape":"./asssets/technology/image-launch-vehicle-portrait.jpg"
+            },  
+            "description":"A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space,usually to earh's surface to space,usually to Earth orbit or beyond."
+        }
+    ]
+}
